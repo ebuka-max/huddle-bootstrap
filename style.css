@@ -1,0 +1,25 @@
+.free{
+    position: relative;
+    right: 0;
+}
+header{
+    background-color: aquamarine;
+}
+.cont{
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.1);
+}
+.lap {
+    margin: auto;
+    margin-top: -100px;
+    background: #ffffff;
+    z-index: 100;
+
+}
+
+.Ebuka{
+    background-color: hsl(192, 100%, 9%);
+    z-index: -200;
+}
+ul li{
+    color: white;
+}
